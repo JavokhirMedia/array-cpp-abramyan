@@ -1,0 +1,3 @@
+/home/javohir/Desktop/projects/c++/abramyan/array/cmake-build-debug/CMakeFiles/array.dir
+/home/javohir/Desktop/projects/c++/abramyan/array/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/javohir/Desktop/projects/c++/abramyan/array/cmake-build-debug/CMakeFiles/rebuild_cache.dir
